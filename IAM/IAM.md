@@ -5,9 +5,9 @@ AWS IAM provides secure control over who can access your AWS resources and how t
 This repository contains notes on AWS Identity and Access Management (IAM). The following sections include information on Users, Groups, Roles, and Policies, with practical examples for both AWS CLI and AWS Management Console.
 
 ## Table of Contents
-- [Users](02-users.md)
-- [Groups](03-groups.md)
-- [Roles](04-roles.md)
-- [Policies](05-policies.md)
-- [Best Practices](06-best-practices.md)
-- [Troubleshooting](07-troubleshooting.md)
+- [Users](1-users.md)
+- [Groups](2-groups.md)
+- [Policies](3-policies.md)
+- [Roles](4-roles.md)
+- [Best Practices](5-bestPractices.md)
+- [Troubleshooting](6-troubleshooting.md)
